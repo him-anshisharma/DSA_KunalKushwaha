@@ -12,15 +12,15 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
   - [ ] Memory management
 
 - [ ] 3.	Flow of the program :
-  - [ ] a.	Flowcharts
-  - [ ] b.	Pseudocode
+  - [ ] Flowcharts
+  - [ ] Pseudocode
         
-[ ] 4.	Introduction to Java :
-        [ ] a.	Introduction
-        [ ] b.	How it works
-  	    [ ] c.	Input and Output in Java
-        [ ] d.	Conditionals & Loops in Java
-                [ ] i.	if-else
+- [ ] 4.	Introduction to Java :
+  - [ ] Introduction
+  - [ ] How it works
+  - [ ] Input and Output in Java
+  - [ ] Conditionals & Loops in Java
+    - [ ] i.	if-else
                 [ ] ii.	loops
                 [ ] iii.	Switch statements
         [ ] f.	Data-types
