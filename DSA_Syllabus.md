@@ -2,15 +2,14 @@
 <br>
 Kunal Kushwaha - DSA Bootcamp (Youtube)
 
-"This file tracks my DSA learning progress and topics covered during my preparation."
 
 ##[Java] DSA_Syllabus :
 
-[ ] 1.	Complete Git & GitHub Course
+- [ ] 1. Complete Git & GitHub Course
 
-[ ] 2.	Introduction to Programming :<br>
-        [ ] a. Types of languages <br>
-        [ ] b.	Memory management
+- [ ] 2. Introduction to Programming :<br>
+  - [ ] a. Types of languages <br>
+  - [ ] b. Memory management
         
 [ ] 3.	Flow of the program :
         [ ] a.	Flowcharts
