@@ -217,7 +217,7 @@ c.	Karp-Rabin Strng matching algorithm
 - [ ] 23.	Tries
                              
 
- Advanced concepts apart from interviews
+ ##Advanced concepts apart from interviews : 
 - [ ] 1.	Bitwise + DP
 - [ ] 2.	Extended Euclidean algorithm
 - [ ] 3.	Modulo Multiplicative Inverse
