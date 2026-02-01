@@ -8,7 +8,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
 
 [ ] 1.	Complete Git & GitHub Course
 
-[ ] 2.	Introduction to Programming :
+[ ] 2.	Introduction to Programming :<br>
         [ ] a. Types of languages <br>
         [ ] b.	Memory management
         
