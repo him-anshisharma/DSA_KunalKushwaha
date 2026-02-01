@@ -54,25 +54,25 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
  - [ ] 7.	Pattern questions
  
  - [ ] 8.	Strings :
-  - [ ]Introduction
+  - [ ] Introduction
   - [ ] How Strings work
   - [ ] Comparison of methods
   - [ ] Operations in Strings
   - [ ] StringBuilder in JavaStringBuffer
          
-- [ ] 9.	Maths for DSA : 
-        [ ] a.	Introduction
-        [ ] b.	Complete Bitwise Operators
-        [ ] c.	Range of numbers
-        [ ] d.	Prime numbers
-        [ ] e.	Sieve of Eratosthenes
-        [ ] f.	Newton's Square Root Method
-        [ ] g.	Factors
-        [ ] h.	Modulo properties
-        [ ] i.	Number Theory
-        [ ] j.	HCF / LCM
-        [ ] k.	Euclidean algorithm
-        [ ] l.	BigInteger & BigDecimal
+- [ ] 9.	Maths for DSA :
+ - [ ] Introduction
+ - [ ] Complete Bitwise Operators
+ - [ ] Range of numbers
+ - [ ] Prime numbers
+ - [ ] Sieve of Eratosthenes
+ - [ ] Newton's Square Root Method
+ - [ ] Factors
+ - [ ] Modulo properties
+    - [ ] Number Theory
+    - [ ] HCF / LCM
+    - [ ] Euclidean algorithm
+    - [ ] BigInteger & BigDecimal
         
 - [ ] 10.	Recursion :
         [ ] a.	Introduction
