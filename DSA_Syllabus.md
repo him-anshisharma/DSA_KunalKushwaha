@@ -53,22 +53,22 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
 
 - [ ] 7.	Pattern questions
  
- - [ ] 8.	Strings :
+- [ ] 8.	Strings :
   - [ ] Introduction
   - [ ] How Strings work
   - [ ] Comparison of methods
   - [ ] Operations in Strings
   - [ ] StringBuilder in JavaStringBuffer
-         
+
 - [ ] 9.	Maths for DSA :
- - [ ] Introduction
- - [ ] Complete Bitwise Operators
- - [ ] Range of numbers
- - [ ] Prime numbers
- - [ ] Sieve of Eratosthenes
- - [ ] Newton's Square Root Method
- - [ ] Factors
- - [ ] Modulo properties
+  - [ ] Introduction
+  - [ ] Complete Bitwise Operators
+  - [ ] Range of numbers
+  - [ ] Prime numbers
+  - [ ] Sieve of Eratosthenes
+  - [ ] Newton's Square Root Method
+  - [ ] Factors
+  - [ ] Modulo properties
     - [ ] Number Theory
     - [ ] HCF / LCM
     - [ ] Euclidean algorithm
