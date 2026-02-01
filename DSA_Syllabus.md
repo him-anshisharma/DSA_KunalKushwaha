@@ -5,13 +5,15 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
 
 ##[Java] DSA_Syllabus :
 
+# Markdown Nesting Checklist
+
 - [ ] 1. Complete Git & GitHub Course
 
 - [ ] 2. Introduction to Programming :<br>
-  - [ ] a. Types of languages <br>
-  - [ ] b. Memory management
-        
-[ ] 3.	Flow of the program :
+  - [ ] Types of languages <br>
+  - [ ] Memory management
+
+- [ ] 3.	Flow of the program :
         [ ] a.	Flowcharts
         [ ] b.	Pseudocode
         
