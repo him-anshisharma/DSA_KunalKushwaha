@@ -32,7 +32,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
   - [ ] c.	Shadowing
   - [ ] d.	Variable Length Arguments
   - [ ] e.	Overloading
-        
+
 - [ ] 6.	Arrays :
   - [ ] Introduction
   - [ ] Memory management
@@ -50,8 +50,8 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
     - [ ] Cyclic Sort
     - [ ] Count Sort
     - [ ] Radix Sort
-                
- - [ ] 7.	Pattern questions
+
+- [ ] 7.	Pattern questions
  
  - [ ] 8.	Strings :
   - [ ] Introduction
