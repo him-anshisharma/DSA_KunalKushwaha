@@ -5,7 +5,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
 
 ##[Java] DSA_Syllabus :
 
-- [X] 1. Complete Git & GitHub Course
+- [ ] 1. Complete Git & GitHub Course
 
 - [ ] 2. Introduction to Programming :<br>
   - [ ] Types of languages <br>
@@ -21,47 +21,46 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
   - [ ] Input and Output in Java
   - [ ] Conditionals & Loops in Java
     - [ ] i.	if-else
-                [ ] ii.	loops
-                [ ] iii.	Switch statements
-        [ ] f.	Data-types
-        [ ] g.	Coding best practices
+    - [ ] ii.	loops
+    - [ ] iii.	Switch statements
+    - [ ] f.	Data-types
+    - [ ] g.	Coding best practices
         
-[ ] 5.	Functions :
-        [ ] a.	Introduction
-        [ ] b.	Scoping in Java
-        [ ] c.	Shadowing
-        [ ] d.	Variable Length Arguments
-        [ ] e.	Overloading
+- [ ] 5.	Functions :
+  - [ ] a.	Introduction
+  - [ ] b.	Scoping in Java
+  - [ ] c.	Shadowing
+  - [ ] d.	Variable Length Arguments
+  - [ ] e.	Overloading
         
-[ ] 6.	Arrays :
-        [ ] a.	Introduction
-        [ ] b.	Memory management
-        [ ] c.	Input and Output
-        [ ] d.	ArrayList Introduction 
-        [ ] e.	Searching :
-                [ ] i.	Linear Search
-                [ ] ii.	Binary Search
-                [ ] iii.	Modified Binary Search
-                [ ] iv.	Binary Search on 2D Arrays
-        [ ] f.	Sorting :
-                [ ] i.	Insertion Sort
-                [ ] ii.	Selection Sort
-                [ ] iii.	Bubble Sort
-                [ ] iv.	Cyclic Sort
-                [ ] v.	Count Sort
-                [ ] vi.	Radix Sort
+- [ ] 6.	Arrays :
+  - [ ] Introduction
+  - [ ] Memory management
+  - [ ] Input and Output
+  - [ ] ArrayList Introduction
+  - [ ] Searching :
+    - [ ] Linear Search
+    - [ ] Binary Search
+    - [ ] Modified Binary Search
+    - [ ] Binary Search on 2D Arrays
+  - [ ] Sorting :
+    - [ ] Insertion Sort
+    - [ ] Selection Sort
+    - [ ] Bubble Sort
+    - [ ] Cyclic Sort
+    - [ ] Count Sort
+    - [ ] Radix Sort
                 
- [ ] 7.	Pattern questions
+ - [ ] 7.	Pattern questions
  
- [ ] 8.	Strings :
-        [ ] a.	Introduction
-        [ ] b.	How Strings work
-        [ ] c.	Comparison of methods
-        [ ] d.	Operations in Strings
-        [ ] e.	StringBuilder in Java
-        [ ] f.	StringBuffer
+ - [ ] 8.	Strings :
+  - [ ]Introduction
+  - [ ] How Strings work
+  - [ ] Comparison of methods
+  - [ ] Operations in Strings
+  - [ ] StringBuilder in JavaStringBuffer
          
-[ ] 9.	Maths for DSA : 
+- [ ] 9.	Maths for DSA : 
         [ ] a.	Introduction
         [ ] b.	Complete Bitwise Operators
         [ ] c.	Range of numbers
@@ -75,7 +74,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
         [ ] k.	Euclidean algorithm
         [ ] l.	BigInteger & BigDecimal
         
-[ ] 10.	Recursion :
+- [ ] 10.	Recursion :
         [ ] a.	Introduction
         [ ] b.	Flow of recursive programs - stacks
         [ ] c.	Why recursion?
@@ -95,7 +94,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
         [ ] k.	Recursion Pattern Problems
         [ ] l.	Subset Questions
         
-[ ] 11.	Space and Time Complexity Analysis :
+- [ ] 11.	Space and Time Complexity Analysis :
         [ ] a.	Introduction
         [ ] b.	Comparisons of various cases
         [ ] c.	Solving Linear Recurrence Relations
@@ -107,7 +106,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
         [ ] i.	Space Complexity
         [ ] j.	NP-Completeness Introduction
 
-[ ] 12.	Object Oriented Programming: 
+- [ ] 12.	Object Oriented Programming: 
         [ ] a.	Introduction
         [ ] b.	Classes & its instances
         [ ] c.	this keyword in Java
@@ -134,7 +133,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
         [ ] t.	Lambda Expression
         [ ] u.	Enums
         
-[ ] 13.	Linked List : 
+- [ ] 13.	Linked List : 
 a.	Introduction
 b.	Singly + Doubly + Circular LinkedList
 c.	Fast and slow pointer
@@ -142,7 +141,7 @@ d.	Cycle Detection
 e.	Reversal of LinkedList
 f.	Linked List + Recursion
 
-[ ] 14.	Stacks & Queues : 
+- [ ] 14.	Stacks & Queues : 
 a.	Introduction
 b.	Push efficient
 c.	Pop efficient
@@ -150,9 +149,9 @@ d.	Queue using Stack and vice versa
 e.	Circular Queue
 f.	Interview problems
 
-[ ] 15.	File handling :
+- [ ] 15.	File handling :
     
-[ ] 16.	Trees :
+- [ ] 16.	Trees :
 a.	Introduction
 i.	Binary Trees
 ii.	Binary Search Trees
@@ -163,7 +162,7 @@ c.	AVL Trees
 d.	Segment Tree
 e.	Fenwick Tree / Binary Indexed Tree
 
-[ ] 17.	Heaps :
+- [ ] 17.	Heaps :
 a.	Introduction
 i.	Theory
 ii.	Priority Queue
@@ -173,7 +172,7 @@ c.	k-way merge
 d.	Top k elements
 e.	Interval problems
 
-[ ] 18.	HashMap :
+- [ ] 18.	HashMap :
 a.	Introduction
 i.	Theory - how it works
 ii.	Comparisons of various forms
@@ -185,12 +184,12 @@ vii.	Probing
 b.	Huffman Coding
 c.	Karp-Rabin Strng matching algorithm
 
-[ ] 19.	Subarray Questions: 
+- [ ] 19.	Subarray Questions: 
         Sliding window 
         Two Pointer
         Kadane's Algorithm
 
-[ ] 20.	Graphs :
+- [ ] 20.	Graphs :
         a.	Introduction
         b.	BFS
         c.	DFS
@@ -203,7 +202,7 @@ c.	Karp-Rabin Strng matching algorithm
         j.	Bellman ford
         k.	A* pathfinding Algorithm
 
-[ ] 21.	Dynamic Programming :
+- [ ] 21.	Dynamic Programming :
         [ ] a.	Introduction
         [ ] b.	Recursion + Recursion DP + Iteration + Iteration Space Optimized
         [ ] c.	Complexity Analysis
@@ -213,27 +212,27 @@ c.	Karp-Rabin Strng matching algorithm
         [ ] g.	Subsequence questions
         [ ] h.	String DP
 
-[ ] 22.	Greedy Algorithms
+- [ ] 22.	Greedy Algorithms
 
-[ ] 23.	Tries
+- [ ] 23.	Tries
                              
 
  Advanced concepts apart from interviews
-[ ] 1.	Bitwise + DP
-[ ] 2.	Extended Euclidean algorithm
-[ ] 3.	Modulo Multiplicative Inverse
-[ ] 4.	Linear Diophantine Equations
-[ ] 5.	Matrix Exponentiation
-[ ] 6.	Mathematical Expectation
-[ ] 7.	Catalan Numbers
-[ ] 8.	Fermat’s Theorem
-[ ] 9.	Wilson's Theorem
-[ ] 10.	Euler's Theorem
-[ ] 11.	Lucas Theorem
-[ ] 12.	Chinese Remainder Theorem
-[ ] 13.	Euler Totient
-[ ] 14.	NP-Completeness
-[ ] 15.	Multithreading
-[ ] 16.	Square Root Deco
+- [ ] 1.	Bitwise + DP
+- [ ] 2.	Extended Euclidean algorithm
+- [ ] 3.	Modulo Multiplicative Inverse
+- [ ] 4.	Linear Diophantine Equations
+- [ ] 5.	Matrix Exponentiation
+- [ ] 6.	Mathematical Expectation
+- [ ] 7.	Catalan Numbers
+- [ ] 8.	Fermat’s Theorem
+- [ ] 9.	Wilson's Theorem
+- [ ] 10.	Euler's Theorem
+- [ ] 11.	Lucas Theorem
+- [ ] 12.	Chinese Remainder Theorem
+- [ ] 13.	Euler Totient
+- [ ] 14.	NP-Completeness
+- [ ] 15.	Multithreading
+- [ ] 16.	Square Root Deco
 
 
