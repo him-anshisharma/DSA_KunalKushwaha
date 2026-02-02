@@ -142,12 +142,12 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
   - [ ] Linked List + Recursion
 
 - [ ] 14.	Stacks & Queues : 
-a.	Introduction
-b.	Push efficient
-c.	Pop efficient
-d.	Queue using Stack and vice versa
-e.	Circular Queue
-f.	Interview problems
+  - [ ] Introduction
+  - [ ] Push efficient
+  - [ ] Pop efficient
+  - [ ] Queue using Stack and vice versa
+  - [ ] Circular Queue
+  - [ ] Interview problems
 
 - [ ] 15.	File handling :
     
@@ -155,62 +155,62 @@ f.	Interview problems
   - [ ] Introduction
     - [ ] Binary Trees
     - [ ] Binary Search Trees
-- [ ] Interview questions
-i.	DFS
-ii.	BFS
-c.	AVL Trees
-d.	Segment Tree
-e.	Fenwick Tree / Binary Indexed Tree
+  - [ ] Interview questions
+    - [ ] DFS
+    - [ ] BFS
+  - [ ] AVL Trees
+  - [ ] Segment Tree
+  - [ ] Fenwick Tree / Binary Indexed Tree
 
 - [ ] 17.	Heaps :
-a.	Introduction
-i.	Theory
-ii.	Priority Queue
-iii.	Heapsort
-b.	Two Heaps Method
-c.	k-way merge
-d.	Top k elements
-e.	Interval problems
+  - [ ] Introduction
+    - [ ] Theory
+    - [ ] Priority Queue
+    - [ ] Heapsort
+  - [ ] Two Heaps Method
+  - [ ] k-way merge
+  - [ ] Top k elements
+  - [ ] Interval problems
 
 - [ ] 18.	HashMap :
-a.	Introduction
-i.	Theory - how it works
-ii.	Comparisons of various forms
-iii.	Limitations and how to solve
-iv.	Map using LinkedList
-v.	Map using Hash
-vi.	Chaining
-vii.	Probing
-b.	Huffman Coding
-c.	Karp-Rabin Strng matching algorithm
+  - [ ] Introduction
+    - [ ] Theory - how it works
+    - [ ] Comparisons of various forms
+    - [ ] Limitations and how to solve
+    - [ ] Map using LinkedList
+    - [ ] Map using Hash
+    - [ ] Chaining
+    - [ ] Probing
+  - [ ] Huffman Coding
+  - [ ] Karp-Rabin Strng matching algorithm
 
-- [ ] 19.	Subarray Questions: 
-        Sliding window 
-        Two Pointer
-        Kadane's Algorithm
+- [ ] 19.	Subarray Questions:
+  - [ ] Sliding window
+  - [ ] Two Pointer
+  - [ ] Kadane's Algorithm
 
 - [ ] 20.	Graphs :
-        a.	Introduction
-        b.	BFS
-        c.	DFS
-        d.	Working with graph components
-        e.	Minimum Spanning Trees
-        f.	Kruskal Algorithm
-        g.	Prims Algorithm
-        h.	Dijkstra’s shortest path algorithm
-        i.	Topological Sort
-        j.	Bellman ford
-        k.	A* pathfinding Algorithm
+  - [ ] Introduction
+  - [ ] BFS
+  - [ ] DFS
+  - [ ] Working with graph components
+  - [ ] Minimum Spanning Trees
+  - [ ] Kruskal Algorithm
+  - [ ] Prims Algorithm
+  - [ ] Dijkstra’s shortest path algorithm
+  - [ ] Topological Sort
+  - [ ] Bellman ford
+  - [ ] A* pathfinding Algorithm
 
 - [ ] 21.	Dynamic Programming :
-        [ ] a.	Introduction
-        [ ] b.	Recursion + Recursion DP + Iteration + Iteration Space Optimized
-        [ ] c.	Complexity Analysis
-        [ ] d.	0/1 Knapsack
-        [ ] e.	Subset Questions
-        [ ] f.	Unbounded Knapsack
-        [ ] g.	Subsequence questions
-        [ ] h.	String DP
+  - [ ] Introduction
+  - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+  - [ ] Complexity Analysis
+  - [ ] 0/1 Knapsack
+  - [ ] Subset Questions
+  - [ ] Unbounded Knapsack
+  - [ ] Subsequence questions
+  - [ ] String DP
 
 - [ ] 22.	Greedy Algorithms
 
