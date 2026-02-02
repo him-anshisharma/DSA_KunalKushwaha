@@ -20,18 +20,18 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
   - [ ] How it works
   - [ ] Input and Output in Java
   - [ ] Conditionals & Loops in Java
-    - [ ] i.	if-else
-    - [ ] ii.	loops
-    - [ ] iii.	Switch statements
-    - [ ] f.	Data-types
-    - [ ] g.	Coding best practices
+    - [ ] if-else
+    - [ ] loops
+    - [ ] Switch statements
+  - [ ] Data-types
+  - [ ] Coding best practices
         
 - [ ] 5.	Functions :
-  - [ ] a.	Introduction
-  - [ ] b.	Scoping in Java
-  - [ ] c.	Shadowing
-  - [ ] d.	Variable Length Arguments
-  - [ ] e.	Overloading
+  - [ ] Introduction
+  - [ ] Scoping in Java
+  - [ ] Shadowing
+  - [ ] Variable Length Arguments
+  - [ ] Overloading
 
 - [ ] 6.	Arrays :
   - [ ] Introduction
@@ -218,7 +218,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
                              
 
  ##Advanced concepts apart from interviews : 
-- [ ] 1.	Bitwise + DP
+- [ ] 1. Bitwise + DP
 - [ ] 2.	Extended Euclidean algorithm
 - [ ] 3.	Modulo Multiplicative Inverse
 - [ ] 4.	Linear Diophantine Equations
@@ -233,6 +233,6 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
 - [ ] 13.	Euler Totient
 - [ ] 14.	NP-Completeness
 - [ ] 15.	Multithreading
-- [ ] 16.	Square Root Deco
+- [ ] 16.	Square Root Decomposition
 
 
