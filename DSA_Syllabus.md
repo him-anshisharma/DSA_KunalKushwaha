@@ -75,71 +75,71 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
     - [ ] BigInteger & BigDecimal
         
 - [ ] 10.	Recursion :
-        [ ] a.	Introduction
-        [ ] b.	Flow of recursive programs - stacks
-        [ ] c.	Why recursion?
-        [ ] d.	Tree building of function calls
-        [ ] e.	Tail recursion
-        [ ] f.	Sorting :
-                [ ] i.	Merge Sort
-                [ ] ii.	Quick Sort
-        [ ] g.	Backtracking :
-                [ ] i.	N-Queens
-                [ ] ii.	N-Knights
-                [ ] iii.	Sudoku Solver
-                [ ] iv.	Maze problems
-        [ ] h.	Recursion String Problems
-        [ ] i.	Recursion Google, Amazon Questions
-        [ ] j.	Recursion Array Problems
-        [ ] k.	Recursion Pattern Problems
-        [ ] l.	Subset Questions
+  - [ ] Introduction
+  - [ ] Flow of recursive programs - stacks
+  - [ ] Why recursion?
+  - [ ] Tree building of function calls
+  - [ ] Tail recursion
+  - [ ] Sorting :
+    - [ ] Merge Sort
+    - [ ] Quick Sort
+  - [ ] Backtracking :
+    - [ ] N-Queens
+    - [ ] N-Knights
+    - [ ] Sudoku Solver
+    - [ ] Maze problems
+- [ ] Recursion String Problems
+- [ ] Recursion Google, Amazon Questions
+- [ ] Recursion Array Problems
+- [ ] Recursion Pattern Problems
+- [ ] Subset Questions
         
 - [ ] 11.	Space and Time Complexity Analysis :
-        [ ] a.	Introduction
-        [ ] b.	Comparisons of various cases
-        [ ] c.	Solving Linear Recurrence Relations
-        [ ] d.	Solving Divide and Conquer Recurrence Relations
-        [ ] e.	Big-O, Big-Omega, Big-Theta Notations
-        [ ] f. Little Notations
-        [ ] g.	Get equation of any relation easily - best and easiest approach
-        [ ] h.	Complexity discussion of all the problems we do
-        [ ] i.	Space Complexity
-        [ ] j.	NP-Completeness Introduction
+  - [ ] Introduction
+  - [ ] Comparisons of various cases
+  - [ ] Solving Linear Recurrence Relations
+  - [ ] Solving Divide and Conquer Recurrence Relations
+  - [ ] Big-O, Big-Omega, Big-Theta Notations
+  - [ ] Little Notations
+  - [ ] Get equation of any relation easily - best and easiest approach
+  - [ ] Complexity discussion of all the problems we do
+  - [ ] Space Complexity
+  - [ ] NP-Completeness Introduction
 
-- [ ] 12.	Object Oriented Programming: 
-        [ ] a.	Introduction
-        [ ] b.	Classes & its instances
-        [ ] c.	this keyword in Java
-        [ ] d.	Properties
-                [ ] i.	Inheritance
-                [ ] ii.	Abstraction
-                [ ] iii.	Polymorphism
-                [ ] iv.	Encapsulation
-        [ ] e.	Overloading & Overriding
-        [ ] f.	Static & Non-Static
-        [ ] g.	Packages
-        [ ] h.	Access Control
-        [ ] i.	Interfaces
-        [ ] j.	Abstract Classes
-        [ ] k.	Annotations
-        [ ] l.	Singleton Class
-        [ ] m.	final, finalize, finally
-        [ ] n.	Object Cloning
-        [ ] o.	Object Class
-        [ ] p.	Generics
-        [ ] q.	Exception Handling
-        [ ] r.	Collections Framework
-        [ ] s.	Vector Class
-        [ ] t.	Lambda Expression
-        [ ] u.	Enums
+- [ ] 12.	Object Oriented Programming:
+  - [ ] Introduction
+  - [ ] Classes & its instances
+  - [ ] this keyword in Java
+  - [ ] Properties
+      - [ ] Inheritance
+      - [ ] Abstraction
+      - [ ] Polymorphism
+      - [ ] Encapsulation
+  - [ ] Overloading & Overriding
+  - [ ] Static & Non-Static
+  - [ ] Packages
+  - [ ] Access Control
+  - [ ] Interfaces
+  - [ ] Abstract Classes
+  - [ ] Annotations
+  - [ ] Singleton Class
+  - [ ] final, finalize, finally
+  - [ ] Object Cloning
+  - [ ] Object Class
+  - [ ] Generics
+  - [ ] Exception Handling
+  - [ ] Collections Framework
+  - [ ] Vector Class
+  - [ ] Lambda Expression
+  - [ ] Enums
         
-- [ ] 13.	Linked List : 
-a.	Introduction
-b.	Singly + Doubly + Circular LinkedList
-c.	Fast and slow pointer
-d.	Cycle Detection
-e.	Reversal of LinkedList
-f.	Linked List + Recursion
+- [ ] 13.	Linked List :
+  - [ ] Introduction
+  - [ ] Singly + Doubly + Circular LinkedList
+  - [ ] Fast and slow pointer
+  - [ ] Cycle Detection
+  - [ ] Reversal of LinkedList
+  - [ ] Linked List + Recursion
 
 - [ ] 14.	Stacks & Queues : 
 a.	Introduction
@@ -152,10 +152,10 @@ f.	Interview problems
 - [ ] 15.	File handling :
     
 - [ ] 16.	Trees :
-a.	Introduction
-i.	Binary Trees
-ii.	Binary Search Trees
-b.	Interview questions
+  - [ ] Introduction
+    - [ ] Binary Trees
+    - [ ] Binary Search Trees
+- [ ] Interview questions
 i.	DFS
 ii.	BFS
 c.	AVL Trees
