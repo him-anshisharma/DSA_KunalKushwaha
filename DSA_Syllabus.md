@@ -88,11 +88,11 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
     - [ ] N-Knights
     - [ ] Sudoku Solver
     - [ ] Maze problems
-- [ ] Recursion String Problems
-- [ ] Recursion Google, Amazon Questions
-- [ ] Recursion Array Problems
-- [ ] Recursion Pattern Problems
-- [ ] Subset Questions
+  - [ ] Recursion String Problems
+  - [ ] Recursion Google, Amazon Questions
+  - [ ] Recursion Array Problems
+  - [ ] Recursion Pattern Problems
+  - [ ] Subset Questions
         
 - [ ] 11.	Space and Time Complexity Analysis :
   - [ ] Introduction
