@@ -218,21 +218,21 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
                              
 
  ##Advanced concepts apart from interviews : 
-- [ ] 1. Bitwise + DP
-- [ ] 2.	Extended Euclidean algorithm
-- [ ] 3.	Modulo Multiplicative Inverse
-- [ ] 4.	Linear Diophantine Equations
-- [ ] 5.	Matrix Exponentiation
-- [ ] 6.	Mathematical Expectation
-- [ ] 7.	Catalan Numbers
-- [ ] 8.	Fermat’s Theorem
-- [ ] 9.	Wilson's Theorem
-- [ ] 10.	Euler's Theorem
-- [ ] 11.	Lucas Theorem
-- [ ] 12.	Chinese Remainder Theorem
-- [ ] 13.	Euler Totient
-- [ ] 14.	NP-Completeness
-- [ ] 15.	Multithreading
-- [ ] 16.	Square Root Decomposition
+- [ ] Bitwise + DP
+- [ ] Extended Euclidean algorithm
+- [ ] Modulo Multiplicative Inverse
+- [ ] Linear Diophantine Equations
+- [ ] Matrix Exponentiation
+- [ ] Mathematical Expectation
+- [ ] Catalan Numbers
+- [ ] Fermat’s Theorem
+- [ ] Wilson's Theorem
+- [ ] Euler's Theorem
+- [ ] Lucas Theorem
+- [ ] Chinese Remainder Theorem
+- [ ] Euler Totient
+- [ ] NP-Completeness
+- [ ] Multithreading
+- [ ] Square Root Decomposition
 
 
