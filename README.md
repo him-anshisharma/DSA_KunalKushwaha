@@ -122,7 +122,3 @@ Feel free to reach out:
 
 Please ⭐ the repository — it motivates progress and helps others too!
 
----
-
-If you want, I can also generate a **progress badge**, **sprint tracker**, or **GitHub Actions automation** for your repo. Just tell me! 🚀
-
