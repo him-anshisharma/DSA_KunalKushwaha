@@ -113,8 +113,7 @@ This journey is built with:
 Feel free to reach out:
 
 * **GitHub:** [https://github.com/him-anshisharma](https://github.com/him-anshisharma)
-* **LinkedIn:** *(Add your link here)*
-* **Twitter:** *(Add if any)*
+* **LinkedIn:** *(https://www.linkedin.com/in/himanshi-sharma-43172527a/)*
 
 ---
 
