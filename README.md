@@ -88,14 +88,13 @@ This journey is built with:
 
 > I’ll update this tracker as I complete lessons and problems.
 
-| Module              | Status         | Notes                    |
-| ------------------- | -------------- | ------------------------ |
-| Introduction to DSA | ✅ Completed    | Basic setup and overview |
-| Recursion           | 🕒 In Progress | Working on examples      |
-| Arrays              | ❌ Not Started  | Planned next             |
-| …                   | …              | …                        |
-
-*(Update this as you go!)*
+| Module              | Status           | Notes                    |
+| ------------------- | --------------   | ------------------------ |
+| Basics of Java      | ✅ Completed     | Basic setup and overview |
+| Functions           |                    | Working on examples      |
+| Arrays              |                   | Planned next             |
+| Searching           |                   | …                        |
+| Sorting             |                  |                           |
 
 ---
 
