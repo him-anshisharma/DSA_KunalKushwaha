@@ -5,7 +5,7 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
 
 ##[Java] DSA_Syllabus :
 
-- [ ] 1. Complete Git & GitHub Course
+- [x] 1. Complete Git & GitHub Course
 
 - [x] 2. Introduction to Programming :
   - [x] Types of languages 
