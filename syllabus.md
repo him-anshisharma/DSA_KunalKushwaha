@@ -11,9 +11,9 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
   - [x] Types of languages 
   - [x] Memory management
 
-- [ ] 3.	Flow of the program :
-  - [ ] Flowcharts
-  - [ ] Pseudocode
+- [x] 3.	Flow of the program :
+  - [x] Flowcharts
+  - [x] Pseudocode
         
 - [ ] 4.	Introduction to Java :
   - [ ] Introduction
