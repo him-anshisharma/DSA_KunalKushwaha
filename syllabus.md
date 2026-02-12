@@ -15,16 +15,16 @@ Kunal Kushwaha - DSA Bootcamp (Youtube)
   - [x] Flowcharts
   - [x] Pseudocode
         
-- [ ] 4.	Introduction to Java :
-  - [ ] Introduction
-  - [ ] How it works
-  - [ ] Input and Output in Java
-  - [ ] Conditionals & Loops in Java
-    - [ ] if-else
-    - [ ] loops
-    - [ ] Switch statements
-  - [ ] Data-types
-  - [ ] Coding best practices
+- [x] 4.	Introduction to Java :
+  - [x] Introduction
+  - [x] How it works
+  - [x] Input and Output in Java
+  - [x] Conditionals & Loops in Java
+    - [x] if-else
+    - [x] loops
+    - [x] Switch statements
+  - [x] Data-types
+  - [x] Coding best practices
         
 - [ ] 5.	Functions :
   - [ ] Introduction
