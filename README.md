@@ -111,7 +111,6 @@ This journey is built with:
 
 Feel free to reach out:
 
-* **GitHub:** [https://github.com/him-anshisharma](https://github.com/him-anshisharma)
 * **LinkedIn:** *(https://www.linkedin.com/in/himanshi-sharma-43172527a/)*
 
 ---
